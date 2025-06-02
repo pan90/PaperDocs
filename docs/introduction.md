@@ -1,19 +1,22 @@
 ![](/picture/papercard.png)
 ## 🕹️玩法介绍
-PaperCard是一个**正版**、**公益**性质的Minecraft服务器
 
-- 原版生存玩法，原汁原味生存，无经济系统，无领地保护，无边界限制（原版默认边界）。
-- 固定出生点，死亡随机掉落，可传送（限制较大）。
-- CoreProtect防熊、ChestProtect锁箱子、防止苦力怕破坏地形、原创漂流瓶等等。
-- 允许生电，允许红石。
-- 公益服，无需氪金！
+纸片是一个**开启正版验证**的Minecraft服务器
+
+- 原版生存玩法，原汁原味生存，无领地保护，无边界限制（原版默认边界）
+
+- 固定出生点，死亡随机掉落，可传送（限制较大）
+
+- CoreProtect防熊、ChestProtect锁箱子、防止苦力怕破坏地形、原创漂流瓶等等
+
+- 允许生电，允许红石
+
 - 资源共享：非共产服，属于聚落服
 
-当前服务器版本为<Badge type="warning" text="1.20.4" />，版本会紧跟MC版本更新。
-兼容的客户端版本为：<Badge type="danger" text="1.20.X" />
 
-- 玩家交流QQ群[💬](https://qm.qq.com/q/h4bhuLRoDC)：`860768366`
-- 管理QQ群（有事可加，完事退群）[💬](https://qm.qq.com/q/ttqwcWmVYA)：`822315449`
+当前服务器版本为<Badge type="warning" text="1.21.4" />，版本会紧跟MC版本更新。
+
+兼容的客户端版本为：<Badge type="danger" text="1.21.X" />
 
 > [!NOTE] 我们的目标
 > 作为一个多人游戏的平台，致力于**增强玩家之间互动**。让玩家享受**原版的生存体验**，**从撸树开始**完成一个个成就，建造一个个建筑，直到玩腻退服退游。
@@ -25,7 +28,7 @@ PaperCard是一个**正版**、**公益**性质的Minecraft服务器
 
 <div class="linkcardbili">
   <a href="https://space.bilibili.com/391939252" target="_blank">
-    <p class="description">纸片PaperCard<br><span>往期宣传，可前往B站主页查看</span></p>
+    <p class="description">纸片<br><span>往期宣传视频，可前往B站主页查看</span></p>
     <div class="logo">
         <img alt="Logo" width="70px" height="70px" src="/picture/blil.webp" />
     </div>
@@ -33,21 +36,18 @@ PaperCard是一个**正版**、**公益**性质的Minecraft服务器
 </div>
 
 ## 🚀超高配置！
-经过测试，服务器能容纳**百人**在线并且**流畅游玩**！
 - CPU：AMD R9 **7950X**
 - 内存：**128G** DDR5 6400MHz
 - 硬盘：4T+2T**超大容量**固态硬盘
 - 网络：托管于**专业机房**，拥有50M上行独享带宽
 - 软件方面：使用**多线程**服务端，高效稳定运行
 
+经过测试，服务器能容纳**百人**在线并且**流畅游玩**！
 
-## 🔍等不及了，快把地址端上来！
-- 首选地址✅：`mc.paper-card.cn`
-- 首选地址2：`mc.纸片.com`
-- 备用地址：`7950x.paper-card.cn:25585`
-- 五周目服永久地址：`mc5.paper-card.cn`
-> [!TIP] 选择哪个？
-> 任选一个能用的地址就行，优先选择首选地址，备用地址可能会变更；一些使用手机客户端的玩家貌似只能使用备用地址
+
+## 🔍马上加入
+<!-- 跳转到官网的页面 -->
+<code>mc.zpian.top</code>
 
 <!-- 
 

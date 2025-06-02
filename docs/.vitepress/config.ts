@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "PaperCard文档",
-  description: "纸片PaperCard服务器详细文档",
+  title: "纸片文档",
+  description: "纸片服务器详细文档",
   lang: 'zh-CN',
   // cleanUrls: true,
   // metaChunk: true,
@@ -21,27 +21,36 @@ export default defineConfig({
 
   themeConfig: {
 
-      // 搜索框的样式
-      search: {
-        provider: "local",
-        options: {
-          translations: {
-            button: {
-              buttonText: "搜索文档",
-              buttonAriaLabel: "搜索文档",
-            },
-            modal: {
-              noResultsText: "无法找到相关结果",
-              resetButtonTitle: "清除查询条件",
-              footer: {
-                selectText: "选择",
-                navigateText: "切换",
-                closeText: '关闭',
-              },
+    // 404
+    notFound: {
+      title: "页面未找到",
+      quote: "你来到了没有知识的荒原",
+      linkLabel: "返回首页",
+      linkText: "返回首页",
+      code: "404"
+    },
+
+    // 搜索框的样式
+    search: {
+      provider: "local",
+      options: {
+        translations: {
+          button: {
+            buttonText: "搜索文档",
+            buttonAriaLabel: "搜索文档",
+          },
+          modal: {
+            noResultsText: "无法找到相关结果",
+            resetButtonTitle: "清除查询条件",
+            footer: {
+              selectText: "选择",
+              navigateText: "切换",
+              closeText: '关闭',
             },
           },
         },
       },
+    },
 
     nav: [
       { text: '首页', link: '/' },
@@ -50,7 +59,7 @@ export default defineConfig({
       { text: '规则', link: '/rules/' },
       { text: '公告', link: '/announcements/' },
       { text: '更新日志', link: '/logs/' },
-      
+
     ],
 
     sidebar:
@@ -58,11 +67,6 @@ export default defineConfig({
         {
           text: '🕹️介绍',
           link: "/introduction"
-        },
-
-        {
-          text: '前言',
-          link: "/preface"
         },
 
         {
@@ -82,11 +86,6 @@ export default defineConfig({
         {
           text: '玩家筛选',
           link: "/filter-players"
-        },
-
-        {
-          text: '快速加入',
-          link: "/faq/join"
         },
 
         {
@@ -145,22 +144,6 @@ export default defineConfig({
           ]
         },
 
-
-        {
-          text: '社团',
-          collapsed: true,
-          link: "/clubs/",
-          items: [
-            { text: '动漫社', link: "/clubs/DMS" },
-            { text: '莱文市', link: "/clubs/LWS" },
-            { text: '苏维埃', link: "/clubs/SWA" },
-            { text: '芋泥蛋糕', link: "/clubs/YNDG" },
-            { text: '璃虹港', link: "/clubs/LHG" },
-            { text: '约翰山庄', link: "/clubs/YHSZ" },
-            { text: '青鸾共和社', link: "/clubs/QLGHS" },
-            { text: '南植重工基地', link: "/clubs/NZZGJD" },
-          ]
-        },
 
         {
           text: '插件',
