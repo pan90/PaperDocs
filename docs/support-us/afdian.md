@@ -1,5 +1,9 @@
 
 # 爱发电
+
+> [!NOTE] 此文档已作废
+> 此文档已作废，仅供参考
+
 ---
 <div class="linkcardafd">
   <a href="https://afdian.net/a/Rabitui" target="_blank">
@@ -9,6 +13,8 @@
     </div>
   </a>
 </div>
+
+
 
 你也可以在游戏内使用指令`/afdian`打开这个链接哦
 
